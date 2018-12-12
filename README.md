@@ -6,5 +6,5 @@ Floods occur in many parts of the country every year claiming the life and prope
 
 Keywords: Flash Flood, Flood Map Generation, Forecast data, Inundation model, Digital Terrain data, Satellite Forecast data.
 
-**Please refer to `Docs` for the final project report.** 
-Link: [Flash Flood Early Warning System] <https://github.com/dulalsaurab/Flash-Flood-Early-Warning-Systme-FFEWS/blob/master/Docs/Thesis%20on%20Flash%20Flood%20Early%20Warning%20System.pdf>
+**Please refer to `Docs` for the final project report.**     
+**Link:** [Flash Flood Early Warning System]<https://github.com/dulalsaurab/Flash-Flood-Early-Warning-Systme-FFEWS/blob/master/Docs/Thesis%20on%20Flash%20Flood%20Early%20Warning%20System.pdf>
