@@ -1,0 +1,17 @@
+# LaTeX build artifacts -- regenerable with:
+#   pdflatex main && bibtex main && pdflatex main && pdflatex main
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# main.pdf IS tracked: it is the compiled paper readers will want.
+
+# Superseded Markdown draft -- main.tex is the authoritative source.
+draft.md
+
