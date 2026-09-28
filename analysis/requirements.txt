@@ -1,0 +1,13 @@
+numpy
+pandas
+scipy
+matplotlib
+rasterio
+pysheds
+earthaccess
+cdsapi
+requests
+python-dotenv
+xarray
+netCDF4
+h5py

@@ -1,0 +1,5 @@
+date,dhm_station,station_label,stage_m,danger_level_m,prior_record_stage_m,glofas_discharge_m3s,rank_in_year,n_days_in_year,percentile_in_year,gumbel_return_period_yr,lp3_return_period_yr
+2024-09-28,681,Hampachuwar,14.5030002594,11.8,13.0609998703,9968.781,2,366,99.7,4.39,4.54
+2024-09-28,695,Chatara,11.8339996338,7.0,6.88899993896,9968.781,2,366,99.7,4.39,4.54
+2025-10-05,681,Hampachuwar,14.2630004883,11.8,14.5030002594,7448.508,2,364,99.7,1.58,1.59
+2025-10-05,695,Chatara,7.72999954224,7.0,11.8339996338,7448.508,2,364,99.7,1.58,1.59
